@@ -7,7 +7,7 @@ The dashboard makes use of the key QC values that are stored in an SQLite databa
 
 The app consists of one long page and is based on the R packages shiny/shinydashboard.
 
-![Dashboard overview](<img src="https://github.com/dev-ev/shinyQCDashboard/blob/master/shinyQC_screenshot_1.PNG" alt="drawing" width="400"/>)
+<img src="https://github.com/dev-ev/shinyQCDashboard/blob/master/shinyQC_screenshot_1.PNG" alt="drawing" width="400"/>
 
 To select the instrument that is displayed, use the date pickers on the left:
 
