@@ -11,12 +11,12 @@ The app consists of one long page and is based on the R packages shiny/shinydash
 
 To select the instrument that is displayed, use the date pickers on the left:
 
-![Instrument dropdown](https://github.com/dev-ev/shinyQCDashboard/blob/master/shinyQC_screenshot_5rs.PNG)
+<img src="https://github.com/dev-ev/shinyQCDashboard/blob/master/shinyQC_screenshot_5.PNG" alt="drawing" width="350"/>
 
 
 To change the time interval that is displayed, use the date pickers on the left:
 
-![Date select](https://github.com/dev-ev/shinyQCDashboard/blob/master/shinyQC_screenshot_4rs.PNG)
+<img src="https://github.com/dev-ev/shinyQCDashboard/blob/master/shinyQC_screenshot_4.PNG" alt="drawing" width="350"/>
 
 
 The main QC table contains the following columns:
