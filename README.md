@@ -7,8 +7,11 @@ The dashboard makes use of the key QC values that are stored in an SQLite databa
 
 The app is based on the R packages shiny/shinydashboard.
 
+To select the instrument that is displayed, use the date pickers on the left:
+![Instrument dropdown](https://github.com/dev-ev/shinyQCDashboard/blob/master/shinyQC_screenshot_4rs.PNG)
+
 To change the time interval that is displayed, use the date pickers on the left:
-![Date select](https://github.com/dev-ev/shinyQCDashboard/blob/master/shinyQC_screenshot_4.PNG)
+![Date select](https://github.com/dev-ev/shinyQCDashboard/blob/master/shinyQC_screenshot_5rs.PNG)
 
 The main QC table contains the following columns:
 
