@@ -5,7 +5,7 @@ Created and tested by Egor Vorontsov. Questions and concerns by e-mail at gmail:
 
 The dashboard makes use of the key QC values that are stored in an SQLite database. In our lab, the QC runs are injections of 50 ng of a Pierce HeLa digest, and the database is filled with the output values for Proteome Discoverer search that are processed via the "QC_Script_PD2.4" Python script.
 
-The app contains one long page and is based on the R packages shiny/shinydashboard.
+The app consists of one long page and is based on the R packages shiny/shinydashboard.
 
 ![Dashboard overview](https://github.com/dev-ev/shinyQCDashboard/blob/master/shinyQC_screenshot_1rs.PNG)
 
