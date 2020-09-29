@@ -9,7 +9,7 @@ The app consists of one long page and is based on the R packages shiny/shinydash
 
 <img src="https://github.com/dev-ev/shinyQCDashboard/blob/master/shinyQC_screenshot_1.PNG" alt="drawing" width="400"/>
 
-To select the instrument, use the date pickers on the left:
+Select the instrument using the dropdown menu on the left:
 
 <img src="https://github.com/dev-ev/shinyQCDashboard/blob/master/shinyQC_screenshot_5.PNG" alt="drawing" width="350"/>
 
