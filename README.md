@@ -7,7 +7,7 @@ The dashboard makes use of the key QC values that are stored in an SQLite databa
 
 The app is based on the R packages shiny/shinydashboard.
 
-To change the time interval that is displayed, use the dat pickers on the left:
+To change the time interval that is displayed, use the date pickers on the left:
 ![Date select](https://github.com/dev-ev/shinyQCDashboard/blob/master/shinyQC_screenshot_4.PNG)
 
 The main QC table contains the following columns:
