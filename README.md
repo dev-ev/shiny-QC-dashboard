@@ -1,4 +1,4 @@
-# shinyQCDashboard
+# shiny-QC-dashboard
 QC dashboard for proteomics using R and shiny/shinydashboard
 
 Created and tested by Egor Vorontsov.
